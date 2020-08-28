@@ -1,4 +1,4 @@
-# ee355-sp20-project-HaomeiLiu
+# Simple Social Network Project
 
 A social network tool written in c++. Final project for EE355.
 
